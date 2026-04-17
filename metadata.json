@@ -1,0 +1,6 @@
+{
+  "name": "Climate Trend Analyzer",
+  "description": "Production-grade climate data analysis and visualization dashboard with AI-powered trend insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Data Visualization", "Time-Series Analysis", "AI Insights"]
+}

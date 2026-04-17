@@ -1,0 +1,14 @@
+{
+  "source": "Climate Nexus Synthetic Repository",
+  "version": "1.4.2",
+  "lastUpdated": "2026-04-17",
+  "collectionMethod": "Simulated Satellite Telemetry",
+  "geospatialCoverage": "Global Aggregate",
+  "temporalResolution": "Monthly",
+  "baselines": {
+    "temperature": 14.0,
+    "carbonDioxide": 325.0,
+    "rainfall": 70.0
+  },
+  "unitSystem": "SI (Celsius, PPM, mm)"
+}

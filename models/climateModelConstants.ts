@@ -1,0 +1,22 @@
+/**
+ * @license
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
+export const CLIMATE_BASELINES = {
+  GLOBAL_TEMP_1970: 14.0,
+  CO2_PPM_1970: 324.5,
+  PRECIPITATION_MM: 70.2,
+  CONFIDENCE_LEVEL: 0.95
+};
+
+export const TREND_COEFFICIENTS = {
+  TEMP_RISE_PER_YEAR: 0.0182,
+  CO2_RISE_PER_YEAR: 2.24,
+  RAIN_VARIANCE: 0.15
+};
+
+export const ANOMALY_THRESHOLDS = {
+  SIGMA_LEVEL: 2.5,
+  PROBABILITY_CUTOFF: 0.98
+};
